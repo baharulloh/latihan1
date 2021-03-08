@@ -6,7 +6,7 @@ $brg2 = "Mouse";
 $brg3 = "FlashDisk";
 $brg4 = "Pulpen";
 // harga per unit peralatan
-$harga1 = 17500;
+$harga1 = 18000;
 $harga2 = 30000; 
 $harga3 = 70000;
 $harga4 = 22300;
