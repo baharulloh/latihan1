@@ -1,6 +1,6 @@
 <?php
  $a = 1;
- $b = 3;
+ $b = 4;
  $c = $a.$b;
  //nilai $c sekarang 12, menggabungkan angka 1 dan 2
  $d= $c + 1 ;
